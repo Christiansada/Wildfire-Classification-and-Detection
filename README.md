@@ -8,15 +8,15 @@ In this project, we implemented three different models for wildfire classificati
 
 ### Artificial Neural Network (ANN)
 
-The ANN model was designed for binary classification of 64x64 resized color fire images. The network architecture includes Flatten layer, two Dense layers with ReLU activation, and an output layer with sigmoid activation. The model achieved an accuracy of XX% on the test set.
+The ANN model was designed for binary classification of 64x64 resized color fire images. The network architecture includes Flatten layer, two Dense layers with ReLU activation, and an output layer with sigmoid activation. 
 
 ### Convolutional Neural Network (CNN)
 
-The CNN model was also designed for binary classification of 64x64 resized color images. The architecture includes two Conv2D layers with ReLU activation, MaxPooling layers, Flatten layer, a Dense layer with ReLU activation, and an output layer with sigmoid activation. The CNN model achieved an accuracy of XX% on the test set.
+The CNN model was also designed for binary classification of 64x64 resized color images. The architecture includes two Conv2D layers with ReLU activation, MaxPooling layers, Flatten layer, a Dense layer with ReLU activation, and an output layer with sigmoid activation. 
 
 ### Transfer Learning with VGG16
 
-We utilized transfer learning with VGG16, a pre-trained model on the ImageNet dataset, for binary classification. The VGG16 base was combined with additional layers, including Flatten and Dense layers. The model achieved an accuracy of XX% on the test set.
+We utilized transfer learning with VGG16, a pre-trained model on the ImageNet dataset, for binary classification. The VGG16 base was combined with additional layers, including Flatten and Dense layers. 
 
 ## Dataset Preprocessing
 
