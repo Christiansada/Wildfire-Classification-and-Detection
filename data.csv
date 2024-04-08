@@ -1,0 +1,180 @@
+| EmployeeID | Age | Gender | Ethnicity  | Tenure (Years) | Department | Role       | Salary | PerformanceRating (1-5) | LeftCompany (0/1) |
+|------------|-----|--------|------------|----------------|------------|------------|--------|-------------------------|-------------------|
+| 1001       | 25  | Male   | Caucasian  | 1              | IT         | Developer  | 60000  | 4                       | 0                 |
+| 1002       | 32  | Female | Hispanic   | 3              | Marketing  | Designer   | 55000  | 3                       | 1                 |
+| 1003       | 29  | Male   | African    | 2              | Sales      | Salesman   | 50000  | 5                       | 0                 |
+| 1004       | 40  | Female | Asian      | 7              | HR         | HR Manager | 65000  | 4                       | 0                 |
+| 1005       | 35  | Male   | Caucasian  | 5              | Finance    | Accountant | 57000  | 3                       | 1                 |
+| 1006       | 28  | Female | African    | 2              | IT         | Analyst    | 59000  | 4                       | 0                 |
+| 1007       | 45  | Male   | Hispanic   | 9              | Marketing  | Manager    | 70000  | 4                       | 0                 |
+| 1008       | 31  | Female | Caucasian  | 3              | Sales      | Salesman   | 51000  | 2                       | 1                 |
+| 1009       | 38  | Male   | Asian      | 6              | HR         | Recruiter  | 54000  | 5                       | 0                 |
+| 1010       | 26  | Female | Hispanic   | 1              | Finance    | Auditor    | 56000  | 3                       | 0                 |
+| EmployeeID | Age | Gender | Ethnicity   | Tenure (Years) | Department | Role                | Salary | PerformanceRating (1-5) | LeftCompany (0/1) |
+|------------|-----|--------|-------------|----------------|------------|---------------------|--------|-------------------------|-------------------|
+| 1011       | 37  | Male   | Caucasian   | 4              | IT         | System Admin        | 61000  | 3                       | 0                 |
+| 1012       | 33  | Female | Asian       | 5              | Marketing  | Content Strategist  | 58000  | 4                       | 1                 |
+| 1013       | 41  | Male   | African     | 7              | Sales      | Area Manager        | 62000  | 5                       | 0                 |
+| 1014       | 29  | Female | Hispanic    | 3              | HR         | HR Specialist       | 54000  | 2                       | 1                 |
+| 1015       | 32  | Male   | Caucasian   | 4              | Finance    | Financial Planner   | 63000  | 4                       | 0                 |
+| 1016       | 44  | Female | African     | 9              | IT         | Database Admin      | 66000  | 3                       | 0                 |
+| 1017       | 40  | Male   | Asian       | 6              | Marketing  | Marketing Analyst   | 59000  | 5                       | 1                 |
+| 1018       | 27  | Female | Caucasian   | 2              | Sales      | Sales Associate     | 52000  | 3                       | 0                 |
+| 1019       | 36  | Male   | Hispanic    | 5              | HR         | Benefits Coordinator| 57000  | 4                       | 0                 |
+| 1020       | 30  | Female | Asian       | 3              | Finance    | Tax Consultant      | 64000  | 3                       | 1                 |
+| 1021       | 42  | Male   | Caucasian   | 7              | IT         | Network Engineer    | 67000  | 4                       | 0                 |
+| 1022       | 28  | Female | African     | 3              | Marketing  | SEO Specialist      | 60000  | 3                       | 0                 |
+| 1023       | 39  | Male   | Asian       | 6              | Sales      | Regional Manager    | 68000  | 4                       | 1                 |
+| 1024       | 34  | Female | Hispanic    | 4              | HR         | Training Specialist | 58000  | 4                       | 0                 |
+| 1025       | 43  | Male   | Caucasian   | 8              | Finance    | Risk Analyst        | 69000  | 5                       | 0                 |
+| 1026       | 31  | Female | Asian       | 4              | IT         | Web Developer       | 62000  | 2                       | 1                 |
+| 1027       | 35  | Male   | African     | 5              | Marketing  | Brand Manager       | 64000  | 4                       | 0                 |
+| 1028       | 46  | Female | Caucasian   | 9              | Sales      | Sales Director      | 70000  | 5                       | 0                 |
+| 1029       | 33  | Male   | Hispanic    | 4              | HR         | Payroll Specialist  | 59000  | 3                       | 1                 |
+| 1030       | 29  | Female | Asian       | 3              | Finance    | Investment Analyst  | 65000  | 4                       | 0                 |
+| 1031       | 27  | Male   | Caucasian   | 2              | IT         | Software Tester     | 56000  | 3                       | 0                 |
+| 1032       | 45  | Female | African     | 8              | Marketing  | PR Manager          | 71000  | 4                       | 1                 |
+| 1033       | 31  | Male   | Asian       | 4              | Sales      | Account Manager     | 57000  | 4                       | 0                 |
+| 1034       | 38  | Female | Hispanic    | 6              | HR         | Recruitment Lead    | 62000  | 5                       | 0                 |
+| 1035       | 40  | Male   | Caucasian   | 7              | Finance    | Controller          | 72000  | 4                       | 1                 |
+| 1036       | 33  | Female | Asian       | 4              | IT         | IT Support          | 60000  | 3                       | 0                 |
+| 1037       | 29  | Male   | African     | 3              | Marketing  | Copywriter          | 61000  | 4                       | 1                 |
+| 1038       | 47  | Female | Caucasian   | 10             | Sales      | VP of Sales         | 73000  | 5                       | 0                 |
+| 1039       | 35  | Male   | Hispanic    | 5              | HR         | Onboarding Specialist | 60000 | 3                       | 1                 |
+| 1040       | 28  | Female | Asian       | 3              | Finance    | Billing Specialist  | 58000  | 4                       | 0                 |
+| 1041       | 32  | Male   | Caucasian   | 4              | IT         | DevOps Engineer     | 65000  | 3                       | 0                 |
+| 1042       | 44  | Female | African     | 8              | Marketing  | Digital Strategist  | 66000  | 5                       | 0                 |
+| 1043       | 30  | Male   | Asian       | 3              | Sales      | Sales Trainer       | 59000  | 2                       | 1                 |
+| 1044       | 34  | Female | Hispanic    | 5              | HR         | Compensation Analyst| 63000  | 4                       | 0                 |
+| 1045       | 41  | Male   | Caucasian   | 7              | Finance    | CFO                 | 74000  | 5                       | 0                 |
+| 1046       | 27  | Female | Asian       | 2              | IT         | Front-end Developer | 57000  | 3                       | 1                 |
+| 1047       | 38  | Male   | African     | 6              | Marketing  | Product Marketer    | 64000  | 4                       | 0                 |
+| 1048       | 33  | Female | Caucasian   | 4              | Sales      | Telesales Agent     | 55000  | 3                       | 1                 |
+| 1049       | 36  | Male   | Hispanic    | 6              | HR         | HR Generalist       | 62000  | 4                       | 0                 |
+| 1050       | 40  | Female | Asian       | 7              | Finance    | Treasury Analyst    | 66000  | 3                       | 0                 |
+| 1051       | 28  | Male   | Caucasian   | 3              | IT         | Back-end Developer  | 64000  | 4                       | 1                 |
+| 1052       | 43  | Female | African     | 8              | Marketing  | Social Media Manager| 65000  | 4                       | 0                 |
+| 1053       | 39  | Male   | Asian       | 7              | Sales      | B2B Sales Rep       | 62000  | 3                       | 0                 |
+| 1054       | 34  | Female | Hispanic    | 5              | HR         | HR Consultant       | 61000  | 5                       | 1                 |
+| 1055       | 42  | Male   | Caucasian   | 7              | Finance    | Accounts Payable    | 64000  | 4                       | 0                 |
+| 1056       | 29  | Female | Asian       | 3              | IT         | Cloud Engineer      | 66000  | 4                       | 0                 |
+| 1057       | 37  | Male   | African     | 6              | Marketing  | Media Buyer         | 63000  | 3                       | 1                 |
+| 1058       | 40  | Female | Caucasian   | 7              | Sales      | Key Account Manager | 65000  | 4                       | 0                 |
+| 1059       | 31  | Male   | Hispanic    | 4              | HR         | Benefits Admin      | 60000  | 3                       | 1                 |
+| 1060       | 33  | Female | Asian       | 4              | Finance    | Cost Analyst        | 62000  | 4                       | 0                 |
+| EmployeeID | Age | Gender | Ethnicity   | Tenure (Years) | Department | Role                   | Salary | PerformanceRating (1-5) | LeftCompany (0/1) |
+|------------|-----|--------|-------------|----------------|------------|------------------------|--------|-------------------------|-------------------|
+| 1061       | 28  | Male   | Caucasian   | 2              | IT         | Data Scientist         | 67000  | 4                       | 0                 |
+| 1062       | 46  | Female | African     | 9              | Marketing  | Media Planner          | 68000  | 5                       | 0                 |
+| 1063       | 40  | Male   | Asian       | 7              | Sales      | Retail Sales Associate | 59000  | 3                       | 1                 |
+| 1064       | 32  | Female | Hispanic    | 4              | HR         | Talent Acquisition    | 61000  | 4                       | 0                 |
+| 1065       | 45  | Male   | Caucasian   | 9              | Finance    | Cash Management       | 70000  | 4                       | 0                 |
+| 1066       | 29  | Female | Asian       | 3              | IT         | Systems Architect      | 68000  | 4                       | 0                 |
+| 1067       | 37  | Male   | African     | 6              | Marketing  | Events Coordinator    | 65000  | 3                       | 1                 |
+| 1068       | 41  | Female | Caucasian   | 7              | Sales      | Corporate Sales Rep    | 66000  | 4                       | 0                 |
+| 1069       | 35  | Male   | Hispanic    | 5              | HR         | HR Analyst             | 64000  | 5                       | 0                 |
+| 1070       | 28  | Female | Asian       | 2              | Finance    | Credit Analyst         | 63000  | 3                       | 1                 |
+| 1071       | 44  | Male   | Caucasian   | 8              | IT         | Full Stack Developer   | 69000  | 4                       | 0                 |
+| 1072       | 30  | Female | African     | 3              | Marketing  | Graphic Designer      | 62000  | 4                       | 0                 |
+| 1073       | 42  | Male   | Asian       | 8              | Sales      | E-commerce Sales       | 67000  | 3                       | 1                 |
+| 1074       | 31  | Female | Hispanic    | 4              | HR         | Employee Relations    | 60000  | 4                       | 0                 |
+| 1075       | 33  | Male   | Caucasian   | 4              | Finance    | Budget Analyst         | 64000  | 5                       | 0                 |
+| 1076       | 36  | Female | Asian       | 5              | IT         | Mobile App Developer   | 66000  | 3                       | 1                 |
+| 1077       | 27  | Male   | African     | 2              | Marketing  | Video Editor           | 60000  | 4                       | 0                 |
+| 1078       | 45  | Female | Caucasian   | 9              | Sales      | Inside Sales Rep       | 65000  | 4                       | 0                 |
+| 1079       | 40  | Male   | Hispanic    | 7              | HR         | Workforce Planner      | 66000  | 3                       | 1                 |
+| 1080       | 38  | Female | Asian       | 6              | Finance    | Financial Advisor      | 68000  | 4                       | 0                 |
+| 1081       | 29  | Male   | Caucasian   | 3              | IT         | UI/UX Designer         | 65000  | 4                       | 0                 |
+| 1082       | 47  | Female | African     | 10             | Marketing  | Campaign Manager       | 71000  | 5                       | 0                 |
+| 1083       | 32  | Male   | Asian       | 4              | Sales      | Wholesale Rep          | 61000  | 3                       | 1                 |
+| 1084       | 34  | Female | Hispanic    | 5              | HR         | Diversity Manager      | 67000  | 4                       | 0                 |
+| 1085       | 43  | Male   | Caucasian   | 8              | Finance    | Asset Manager          | 72000  | 5                       | 0                 |
+| 1086       | 26  | Female | Asian       | 1              | IT         | QA Tester              | 58000  | 3                       | 1                 |
+| 1087       | 37  | Male   | African     | 6              | Marketing  | Content Writer         | 64000  | 4                       | 0                 |
+| 1088       | 46  | Female | Caucasian   | 9              | Sales      | Customer Success       | 69000  | 4                       | 0                 |
+| 1089       | 35  | Male   | Hispanic    | 5              | HR         | Benefits Specialist   | 66000  | 4                       | 1                 |
+| 1090       | 30  | Female | Asian       | 3              | Finance    | M&A Analyst            | 67000  | 5                       | 0                 |
+| 1091       | 41  | Male   | Caucasian   | 7              | IT         | Cybersecurity Analyst  | 70000  | 4                       | 0                 |
+| 1092       | 28  | Female | African     | 2              | Marketing  | PPC Specialist         | 63000  | 3                       | 1                 |
+| 1093       | 44  | Male   | Asian       | 8              | Sales      | Area Sales Manager     | 69000  | 4                       | 0                 |
+| 1094       | 33  | Female | Hispanic    | 4              | HR         | Learning & Dev.        | 65000  | 5                       | 0                 |
+| 1095       | 40  | Male   | Caucasian   | 7              | Finance    | Treasury Manager       | 73000  | 4                       | 0                 |
+| 1096       | 31  | Female | Asian       | 4              | IT         | DevOps Engineer        | 68000  | 3                       | 1                 |
+| 1097       | 39  | Male   | African     | 6              | Marketing  | Product Marketer       | 66000  | 4                       | 0                 |
+| 1098       | 45  | Female | Caucasian   | 9              | Sales      | Partnership Manager    | 70000  | 5                       | 0                 |
+| 1099       | 36  | Male   | Hispanic    | 5              | HR         | HRIS Specialist        | 64000  | 4                       | 1                 |
+| 1100       | 29  | Female | Asian       | 3              | Finance    | Risk Analyst           | 65000  | 4                       | 0                 |
+| 1101       | 38  | Male   | Caucasian   | 6              | IT         | Database Admin         | 66000  | 4                       | 0                 |
+| 1102       | 27  | Female | African     | 2              | Marketing  | Brand Specialist       | 62000  | 3                       | 1                 |
+| 1103       | 42  | Male   | Asian       | 8              | Sales      | Business Dev Rep       | 67000  | 4                       | 0                 |
+| 1104       | 33  | Female | Hispanic    | 4              | HR         | Compensation Analyst   | 66000  | 5                       | 0                 |
+| 1105       | 44  | Male   | Caucasian   | 8              | Finance    | Financial Planner      | 74000  | 5                       | 0                 |
+| 1106       | 28  | Female | Asian       | 2              | IT         | Network Engineer       | 64000  | 3                       | 1                 |
+| 1107       | 37  | Male   | African     | 6              | Marketing  | SEO Specialist         | 65000  | 4                       | 0                 |
+| 1108       | 46  | Female | Caucasian   | 9              | Sales      | Regional Sales Mgr     | 71000  | 4                       | 0                 |
+| 1109       | 35  | Male   | Hispanic    | 5              | HR         | Payroll Specialist     | 66000  | 4                       | 1                 |
+| 1110       | 31  | Female | Asian       | 3              | Finance    | Internal Auditor       | 68000  | 5                       | 0                 |
+| EmployeeID | Age | Gender | Ethnicity   | Tenure (Years) | Department | Role                            | Salary | PerformanceRating (1-5) | LeftCompany (0/1) |
+|------------|-----|--------|-------------|----------------|------------|---------------------------------|--------|-------------------------|-------------------|
+| 1111       | 32  | Male   | Caucasian   | 4              | IT         | Front-end Developer             | 69000  | 4                       | 0                 |
+| 1112       | 29  | Female | African     | 3              | Marketing  | Marketing Analyst               | 65000  | 3                       | 1                 |
+| 1113       | 47  | Male   | Asian       | 10             | Sales      | Enterprise Sales Manager        | 72000  | 4                       | 0                 |
+| 1114       | 28  | Female | Hispanic    | 2              | HR         | Recruitment Coordinator         | 62000  | 4                       | 0                 |
+| 1115       | 45  | Male   | Caucasian   | 9              | Finance    | Financial Controller            | 75000  | 5                       | 0                 |
+| 1116       | 30  | Female | Asian       | 3              | IT         | IT Support Specialist           | 63000  | 3                       | 1                 |
+| 1117       | 36  | Male   | African     | 6              | Marketing  | Digital Marketing Specialist    | 66000  | 4                       | 0                 |
+| 1118       | 40  | Female | Caucasian   | 7              | Sales      | Affiliate Manager               | 68000  | 4                       | 0                 |
+| 1119       | 29  | Male   | Hispanic    | 3              | HR         | Onboarding Specialist           | 61000  | 4                       | 1                 |
+| 1120       | 33  | Female | Asian       | 5              | Finance    | Tax Specialist                  | 64000  | 5                       | 0                 |
+| 1121       | 44  | Male   | Caucasian   | 8              | IT         | Systems Administrator           | 70000  | 4                       | 0                 |
+| 1122       | 31  | Female | African     | 4              | Marketing  | Community Manager               | 63000  | 4                       | 0                 |
+| 1123       | 42  | Male   | Asian       | 7              | Sales      | Export Sales Manager            | 67000  | 4                       | 1                 |
+| 1124       | 35  | Female | Hispanic    | 6              | HR         | Organizational Psychologist     | 69000  | 5                       | 0                 |
+| 1125       | 38  | Male   | Caucasian   | 6              | Finance    | Investment Analyst              | 73000  | 4                       | 0                 |
+| 1126       | 27  | Female | Asian       | 2              | IT         | Security Analyst                | 65000  | 3                       | 1                 |
+| 1127       | 48  | Male   | African     | 10             | Marketing  | Content Strategist              | 68000  | 4                       | 0                 |
+| 1128       | 33  | Female | Caucasian   | 4              | Sales      | Retail Sales Manager            | 66000  | 5                       | 0                 |
+| 1129       | 37  | Male   | Hispanic    | 6              | HR         | Labor Relations Specialist      | 67000  | 4                       | 1                 |
+| 1130       | 32  | Female | Asian       | 5              | Finance    | Corporate Finance Analyst       | 66000  | 4                       | 0                 |
+| 1131       | 29  | Male   | Caucasian   | 3              | IT         | Software QA Lead                | 64000  | 3                       | 1                 |
+| 1132       | 40  | Female | African     | 7              | Marketing  | Market Research Analyst         | 66000  | 4                       | 0                 |
+| 1133       | 41  | Male   | Asian       | 8              | Sales      | National Sales Director         | 74000  | 5                       | 0                 |
+| 1134       | 30  | Female | Hispanic    | 3              | HR         | Health and Benefits Consultant  | 62000  | 4                       | 0                 |
+| 1135       | 35  | Male   | Caucasian   | 6              | Finance    | Chief Financial Assistant       | 75000  | 5                       | 0                 |
+| 1136       | 28  | Female | Asian       | 3              | IT         | E-commerce Developer            | 65000  | 4                       | 0                 |
+| 1137       | 36  | Male   | African     | 6              | Marketing  | CRM Specialist                 | 64000  | 4                       | 1                 |
+| 1138       | 45  | Female | Caucasian   | 9              | Sales      | Sales Trainer                   | 70000  | 5                       | 0                 |
+| 1139       | 31  | Male   | Hispanic    | 4              | HR         | Change Management Specialist   | 66000  | 3                       | 1                 |
+| EmployeeID | Age | Gender | Ethnicity   | Tenure (Years) | Department | Role                             | Salary | PerformanceRating (1-5) | LeftCompany (0/1) |
+|------------|-----|--------|-------------|----------------|------------|----------------------------------|--------|-------------------------|-------------------|
+| 1140       | 34  | Female | Asian       | 5              | Finance    | Portfolio Manager                | 68000  | 4                       | 0                 |
+| 1141       | 28  | Male   | Caucasian   | 3              | IT         | Mobile App Developer             | 67000  | 4                       | 1                 |
+| 1142       | 37  | Female | African     | 7              | Marketing  | PR Specialist                    | 66000  | 5                       | 0                 |
+| 1143       | 43  | Male   | Asian       | 8              | Sales      | Account Executive                | 71000  | 4                       | 0                 |
+| 1144       | 32  | Female | Hispanic    | 4              | HR         | Benefits Administrator           | 64000  | 4                       | 0                 |
+| 1145       | 29  | Male   | Caucasian   | 3              | Finance    | Hedge Fund Manager               | 69000  | 3                       | 1                 |
+| 1146       | 38  | Female | Asian       | 6              | IT         | System Analyst                   | 70000  | 4                       | 0                 |
+| 1147       | 36  | Male   | African     | 5              | Marketing  | Social Media Manager             | 65000  | 4                       | 1                 |
+| 1148       | 27  | Female | Caucasian   | 2              | Sales      | Inside Sales Rep                 | 62000  | 3                       | 1                 |
+| 1149       | 44  | Male   | Hispanic    | 9              | HR         | Employee Relations Specialist    | 71000  | 5                       | 0                 |
+| 1150       | 30  | Female | Asian       | 3              | Finance    | Financial Consultant             | 65000  | 4                       | 0                 |
+| 1151       | 41  | Male   | Caucasian   | 7              | IT         | Cloud Solutions Architect       | 74000  | 4                       | 0                 |
+| 1152       | 33  | Female | African     | 4              | Marketing  | Email Marketing Manager          | 64000  | 5                       | 0                 |
+| 1153       | 28  | Male   | Asian       | 3              | Sales      | Tele-sales Rep                   | 63000  | 3                       | 1                 |
+| 1154       | 37  | Female | Hispanic    | 5              | HR         | Talent Acquisition Specialist    | 66000  | 4                       | 0                 |
+| 1155       | 46  | Male   | Caucasian   | 9              | Finance    | Mutual Fund Manager              | 76000  | 5                       | 0                 |
+| 1156       | 32  | Female | Asian       | 4              | IT         | IT Project Manager               | 69000  | 4                       | 0                 |
+| 1157       | 29  | Male   | African     | 3              | Marketing  | Affiliate Marketing Specialist   | 64000  | 3                       | 1                 |
+| 1158       | 43  | Female | Caucasian   | 7              | Sales      | Customer Success Manager         | 69000  | 4                       | 0                 |
+| 1159       | 34  | Male   | Hispanic    | 5              | HR         | HR Analytics Specialist          | 67000  | 5                       | 0                 |
+| 1160       | 28  | Female | Asian       | 2              | Finance    | Credit Analyst                   | 63000  | 3                       | 1                 |
+| 1161       | 45  | Male   | Caucasian   | 8              | IT         | Data Scientist                   | 76000  | 5                       | 0                 |
+| 1162       | 31  | Female | African     | 4              | Marketing  | Influencer Relations Manager     | 65000  | 4                       | 0                 |
+| 1163       | 39  | Male   | Asian       | 6              | Sales      | Field Sales Rep                  | 68000  | 4                       | 1                 |
+| 1164       | 33  | Female | Hispanic    | 5              | HR         | Diversity & Inclusion Specialist | 66000  | 5                       | 0                 |
+| 1165       | 40  | Male   | Caucasian   | 7              | Finance    | Derivative Specialist            | 74000  | 4                       | 0                 |
+| 1166       | 30  | Female | Asian       | 3              | IT         | UX/UI Designer                   | 66000  | 3                       | 1                 |
+| 1167       | 42  | Male   | African     | 7              | Marketing  | Video Content Strategist         | 67000  | 4                       | 0                 |
+| 1168       | 31  | Female | Caucasian   | 4              | Sales      | Key Account Manager              | 65000  | 4                       | 1                 |
+| 1169       | 36  | Male   | Hispanic    | 5              | HR         | Training Coordinator             | 64000  | 4                       | 0                 |
+| 1170       | 28  | Female | Asian       | 2              | Finance    | Currency Exchange Specialist     | 62000  | 3                       | 1                 |
